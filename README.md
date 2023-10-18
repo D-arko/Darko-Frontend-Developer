@@ -1,6 +1,6 @@
 This app is made with create-react-app.
 
-It fetches data from SpaceX API and displays Rockets.
+It fetches data from SpaceX API to display Rockets.
 
 Tailwind CSS was used for styling.
 
